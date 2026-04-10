@@ -11,6 +11,7 @@ I’ve worked across both frontend and backend, using technologies like JavaScri
 - Python / Flask
 - SQL / NoSQL
 - HTML / CSS
+- Swift
 
 ## What I enjoy building
 - Full-stack applications
