@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Camilo 👋
 
-<!--
-**Camelo21/Camelo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack engineer with a strong interest in building useful products and solving real-world problems through software.
 
-Here are some ideas to get you started:
+I’ve worked across both frontend and backend, using technologies like JavaScript, React, Node.js, Python, and Flask. I enjoy building tools, automating processes, and working on systems that make things more efficient and reliable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- JavaScript / TypeScript
+- React
+- Node.js
+- Python / Flask
+- SQL / NoSQL
+- HTML / CSS
+
+## What I enjoy building
+- Full-stack applications
+- Workflow automation tools
+- Data-driven systems
+- Products that solve practical problems
+
+## Currently focused on
+Growing as a product-oriented engineer and building software that is both technically solid and genuinely useful.
+
+## Links
+- Portfolio: [your portfolio link]
+- LinkedIn: [your LinkedIn link]
