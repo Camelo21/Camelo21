@@ -22,5 +22,5 @@ I’ve worked across both frontend and backend, using technologies like JavaScri
 Growing as a product-oriented engineer and building software that is both technically solid and genuinely useful.
 
 ## Links
-- Portfolio: [your portfolio link]
-- LinkedIn: [your LinkedIn link]
+- Portfolio: https://camiolmeloportafolio.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/camilo-andr%C3%A9s-melo-bernal-9b726a33b/
